@@ -1,0 +1,29 @@
+ahego 126
+bald 017
+bandages 005
+bangs 324
+blush 036
+body 068
+ears 216
+eyebrows 012
+face assc 162
+freckles 002
+glasses 072
+hairback 432
+hairbows 432
+hands 119
+hats 10
+left eye 102
+mouth 016
+nose 012
+overshirts 144
+ponytails 342
+pride 052
+right eye 102
+short bangs 108
+side pieces 396
+tails 018
+ties 126
+undershirt style 040
+undershirts 144
+wings 012
