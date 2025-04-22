@@ -2,8 +2,7 @@
 
 # NPR-CHR
 
-
 ## Demo
 
-<div align="center"><video width="100%" height="auto" src="https://github.com/Riswan-Nopiyar/NPR-CHR/blob/main/Chereverie/Example/Example.mp4" controls="controls"></video></div>
+<div align="center"><video width="100%" height="auto" src="https://github.com/user-attachments/assets/47f6e2f4-8882-47b0-bff4-70233ed9a4ca" controls="controls"></video></div>
 </div>
